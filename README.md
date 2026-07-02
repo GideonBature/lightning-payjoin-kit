@@ -220,6 +220,7 @@ lightning-payjoin-kit open-channel --amount 1000000 --peer <node_pubkey>
 | [RESEARCH.md](./docs/RESEARCH.md) | Research process, alternative evaluation, and rationale |
 | [ROADMAP.md](./docs/ROADMAP.md) | Detailed milestones, KPIs, and delivery timeline |
 | [IMPLEMENTATION.md](./IMPLEMENTATION.md) | Implemented PoC surface, working flows, and local test commands |
+| [REGTEST_OPENER.md](./docs/REGTEST_OPENER.md) | Runnable regtest product demo for normal vs privacy-input channel opens |
 | [CONTRIBUTING.md](./CONTRIBUTING.md) | How to contribute to the project |
 | [SECURITY.md](./SECURITY.md) | Responsible disclosure policy |
 
